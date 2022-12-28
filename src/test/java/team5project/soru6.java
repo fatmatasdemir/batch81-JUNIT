@@ -11,7 +11,7 @@ import java.time.Duration;
 public class soru6 {
 
 
-        /*
+        /* ////
     1. Launch browser
     2. Navigate to url 'http://automationexercise.com'
     3. Verify that home page is visible successfully
